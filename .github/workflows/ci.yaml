@@ -1,5 +1,8 @@
 # CI for Product Catalog Service
 
+permissions:
+  contents: write
+
 name: product-catalog-ci
 
 on: 
